@@ -1,1 +1,1 @@
-Try your memory power!
+While learning web dev from Angela Yu.
